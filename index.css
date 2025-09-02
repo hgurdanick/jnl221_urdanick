@@ -10,7 +10,8 @@ body {
 	padding-bottom: 20px;
 	font-family: "Open Sans", sans-serif;
 }
-
+h1 {
+	border: 2px black dotted
 section {
 	height: 600px;
 	text-align: center;
